@@ -1,6 +1,6 @@
-package communicationProject.client.commands;
+package client.commands;
 
-import communicationProject.client.TcpClient;
+import client.TcpClient;
 
 abstract class Command {
     //Client sends POST(show data) to TcpServer

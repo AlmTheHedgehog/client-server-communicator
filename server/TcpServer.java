@@ -1,4 +1,4 @@
-package communicationProject.server;
+package server;
 
 import java.io.*;
 import java.net.*;

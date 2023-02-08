@@ -1,6 +1,6 @@
-package communicationProject.client.commands;
+package client.commands;
 
-import communicationProject.client.TcpClient;
+import client.TcpClient;
 
 public class CmdLinePostCommand extends Command{
 

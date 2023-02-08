@@ -1,10 +1,10 @@
-package communicationProject.server;
+package server;
 
 import javax.swing.*;
 
-import communicationProject.server.commands.GetCommand;
-import communicationProject.server.commands.PostCommand;
-import communicationProject.server.commands.SetCommand;
+import server.commands.GetCommand;
+import server.commands.PostCommand;
+import server.commands.SetCommand;
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,10 +1,10 @@
-package communicationProject.client;
+package client;
 
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 
-import communicationProject.client.commands.*;
+import client.commands.*;
 
 import java.awt.*;
 import java.awt.event.*;

@@ -1,6 +1,6 @@
-package communicationProject.server.commands;
+package server.commands;
 
-import communicationProject.server.TcpServer;
+import server.TcpServer;
 
 public class GetCommand extends Command{
     String parameterName;

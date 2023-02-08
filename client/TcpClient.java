@@ -1,9 +1,9 @@
-package communicationProject.client;
+package client;
 
 import java.io.*;
 import java.net.*;
 
-import communicationProject.client.commands.PostCommand;
+import client.commands.PostCommand;
 
 public class TcpClient implements AutoCloseable{
     final String HOSTNAME = "localhost";

@@ -1,7 +1,7 @@
-package communicationProject.server.commands;
+package server.commands;
 
-import communicationProject.server.ConnectionThread;
-import communicationProject.server.TcpServer;
+import server.ConnectionThread;
+import server.TcpServer;
 
 abstract class Command {
     //ConnectionThread sends POST(show data) to TcpClient
